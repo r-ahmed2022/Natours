@@ -1,0 +1,32 @@
+.u-center {
+    text-align: center;
+}
+
+@mixin clearfix {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.u-margin-8 {
+    margin-bottom: 8rem;
+}
+
+.u-margin-4 {
+    margin-bottom: 4rem;
+}
+
+.u-margin-2 {
+    margin-bottom: 1rem;
+}
+
+.u-margin-top-4 {
+    margin-bottom: 4rem;
+}
+.u-margin-top-2 {
+    margin-bottom: 1rem;
+}
+.p-margin-4 {
+    margin-bottom: .3rem;
+
+}
