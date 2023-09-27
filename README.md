@@ -24,10 +24,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 SpacetravellerHub  <a name="about-project"></a>
+# 📖 Natours <a name="about-project"></a>
 
 
-**SpacetravellerHub**  consists of Rockets, Missions, and the My Profile section.
+**Natours**  Tour & Travels site, showcasing advanced css, and animation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,9 +35,9 @@
 
 <details>
 
-  <summary>REACT</summary>
+  <summary>Advanced CSS</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li></li>
   </ul>
 </details>
 
@@ -48,9 +48,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Used React Router for navigation**
-- **Designed with React**
-- **Allow users book rockets for space mission**
+- **Container switching in response to changing scree sizes**
+- **Designed with HTML/CSS**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,7 +59,7 @@
 
 > Add a link to your deployed project.
 
- [Live Link](https://r-ahmed2022.github.io/SpaceTravellerHub/)
+ [Live Link](https://r-ahmed2022.github.io/Natours/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +91,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:r-ahmed2022/SpacetravellerHub.git
+  git clone https://github.com/r-ahmed2022/Natours.git
 ```
 ### Install
 
@@ -107,17 +106,13 @@ To run on local machine, open your terminal and run the following:
 
 To following are what the web-app is used for:
 
-```sh
-  Displays list of SpaceX rockets and aviable missions
-  Rockets can be reservered
-  Mission can be join
 ```
 ### Deployment
 
 This project would be deployed using github pages:
 
 ```sh
-  Deployed on Cloud via Render.com
+  Deployed on Cloud via github pages.com
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,9 +131,9 @@ This project would be deployed using github pages:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Rocket Page**
-- [ ] **Mission Page**
-- [ ] **Profile Page**
+- [ ] **animatiion**
+- [ ] **Contact Page**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
